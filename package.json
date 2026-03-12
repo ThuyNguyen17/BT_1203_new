@@ -1,0 +1,23 @@
+{
+  "name": "bt_1203_new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThuyNguyen17/BT_1203_new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThuyNguyen17/BT_1203_new/issues"
+  },
+  "homepage": "https://github.com/ThuyNguyen17/BT_1203_new#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
